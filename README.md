@@ -1,6 +1,4 @@
 # Website
 My first website
 
-Download ZIP
-Unzip it
-Open final_version.html in Google Chrome
+To take a look at this website, download ZIP version of it. Then unzip it and open final_version.html in Google Chrome.
